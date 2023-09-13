@@ -1,7 +1,7 @@
-id=iOS_Emoji
-name=iOS 16.4 iOS Emoji font
-version=v16.4
-versionCode=16400
-author=Keinta15
-description=Systemlessly replaces emoji font with iOS 16.4 Emoji
-updateJson=https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/main/updater.json
+id=Updated_Noto_Emoji
+name=Google Noto Emoji 15.0 font
+version=v15.0
+versionCode=15000
+author=aheike05
+description=Systemlessly updates emoji font to latest Google Noto Color version 
+updateJson=https://raw.githubusercontent.com/aheike05/Magisk-Updated-Emoji/main/updater.json
