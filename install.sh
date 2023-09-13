@@ -24,7 +24,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "*       iOS Emoji 16.4        *"
+  ui_print "*   Google Noto Color 15.0    *"
   ui_print "*******************************"
 }
 
